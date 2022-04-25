@@ -1,1 +1,1 @@
-# emt_lab2_173068
+# Laboratoriska vezba 2  -  Elektronska i mobilna trgovija
